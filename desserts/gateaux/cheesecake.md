@@ -8,9 +8,9 @@ Pour un grand moule à fond amovible (diamètre 28 cm)
 ## Ingrédients
 
 ### Pâte
-* 300 g Spéculos
+* 375 g Spéculoos
 * 170 g beurre
-* 40g sucre
+* 40g sucre (optionnel)
 
 ### Garniture
 * 650 g petit suisse (ou fromage blanc très égouté)
