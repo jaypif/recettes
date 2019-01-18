@@ -23,3 +23,4 @@ En revanche des variantes sont bien entendu possible
 ## Contributors
 - Jean-Philippe Fourès
 - Jennifer Millereux
+- Sébastien Thouément
