@@ -36,3 +36,11 @@ _note: Préparer la veille de la dégustation_
 10. Vérifiez la cuisson avec la pointe d'un couteau.
 
 _Attention: La température et la durée de cuisson dépendent du four_
+
+## Variante 2: Brioche Nanterre
+
+TODO
+
+## Variante 3: Cinnamon Rolls
+
+Voir recette [Cinnamon rolls](https://github.com/jaypif/recettes/blob/master/desserts/gourmandises/cinnamon-rolls.md)
