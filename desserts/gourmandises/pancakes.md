@@ -21,7 +21,8 @@
 3. Séparer le blanc des jaunes des oeufs. Mettre une pincée de sel dans les blancs.
 4. Battre les jaunes d'oeufs avec le yaourt et le lait, puis l'incorporer
 progressivement au mélange farine, levure et sucre
-5. Monter les blancs d'oeufs en neige. Mélanger délicatement les blancs au reste de la préparation
+5. Incorporer le beurre fondu au mélange (attention à ce que cela ne soit pas trop chaud).
+6. Monter les blancs d'oeufs en neige. Mélanger délicatement les blancs au reste de la préparation
 
 Laissez reposer une nuit
 
@@ -32,4 +33,4 @@ Laissez reposer une nuit
 3. Retourner lorsque la pâte ne rebouche pas les trous formés par les bulles
 4. réserver sur une assiette
 
-Déguster avec du sirop d'érable, sirop "pancake" US, pâte à tartiner ou configure
+Déguster avec du sirop d'érable, sirop "pancake" US, pâte à tartiner ou confiture.
