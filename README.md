@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce repository contient un ensemble de reette de cuisine que nous avons l'habitude de préparer.
+Ce repository contient un ensemble de recettes de cuisine que nous avons l'habitude de préparer.
 Le but de ce répo est d'avoir toujours à porté de main les recettes de la vie quotidienne.
 
 ## Pourquoi ce projet ?
@@ -17,10 +17,10 @@ centralise ainsi un ensemble de recette pratique que nous avons testé.
 
 ## Important
 
-Pour que la recherches soit toujours facile, les doublons de recette sont interdis. 
-En revanche des variantes sont bien entendu possible
+Pour que la recherches soit toujours facile, les doublons de recette sont interdits. 
+En revanche des variantes sont bien entendu possibles.
 
-## Contributors
+## Contributeurs
 - Jean-Philippe Fourès
 - Jennifer Millereux
 - Sébastien Thouément
