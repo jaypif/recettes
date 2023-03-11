@@ -13,13 +13,13 @@ _note: Préparer la veille de la dégustation_
 
 ## Préparation
 
-1. Dans le bol du robot avec le crochet (ou un saladier si vous êtes courageux), mettre la farine, puis d'un coté le sucre et le sel, et de l'autre côté la levure emiéttée.
+1. Dans le bol du robot avec le crochet (ou un saladier si vous êtes courageux), mettre la farine, puis d'un coté le sucre et le sel, et de l'autre côté la levure emiéttée. Ajouter les oeufs froids.
 2. Démarrer le robet à vitesse 1 (très lentement) pendant 5 minutes. Passer en vitesse 2 pendant encore 5 minutes. La pate doit etre homogène.
 3. Réduire la vitesse pour incorporer le beurre froid (en petit cube) en 2 temps.
-4. Lorsque le beurre est incorporé, passer en vitesse 2 pendant 5 minutes. La pâte doit se décoler des bords.
-5. Laissez reposer à couvert pendant 45 minutes à 1h.
+4. Lorsque le beurre est incorporé, passer en vitesse 2 pendant 10 minutes. La pâte doit se décoler des bords.
+5. Laissez reposer à couvert pendant 45 minutes à 1h à température ambiante.
 6. Après cette période de ropos, prendre la pâte en main, la dégazer (aplatir). Reformer une boule, la mettre dans un saladier, couvrir (film alimentaire ou torchon).
-7. Mettre au réfrigérateur pour 30 minutes au minimum (cela peut etre plusieurs heures)
+7. Mettre au réfrigérateur pour 30 minutes au minimum (idéalement 1 nuit)
 8. La pâte est prete pour être mise en forme
 
 ## Variante 1: Brioche de tête
@@ -39,7 +39,17 @@ _Attention: La température et la durée de cuisson dépendent du four_
 
 ## Variante 2: Brioche Nanterre
 
-TODO
+_Pour un Moule de 25 x 10 cm (ou 20 x 11 cm)_
+
+1. Sortir la pâte du réfrigérateur, la détailler en patons de 50g.
+2. Etalez les patons puis former des boules dans la paume de la main. Laissez reposer 5 min
+3. Renouvellez l'opération pour former des boules lisses. Entreposez au réfrigérateur 5min
+4. Beurrez le moule à Brioche
+5. Disposez les boules refroidies en quinconce dans le moule. Dorez au pinceau avec l'oeuf battu.
+6. Entreposez dans un endroit tiède (four éteint avec un bol d'eau chaude, ou au dessus du réfrigérateur) entre 25 et 30°C pendant 1h45.
+7. Préchauffzr le four à 170°C en chaleur ventilée.
+8. Dorez à nouveau. enfournez et laissez cuire environ 18min.
+9. Laissez refroidir sur une grille.
 
 ## Variante 3: Cinnamon Rolls
 
